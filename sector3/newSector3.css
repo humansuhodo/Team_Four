@@ -218,10 +218,7 @@ button.btn.next:before {
   left: 28px;
 }
 
-@font-face {
-  font-family: "Simpsonfont";
-  src: url("https://assets.codepen.io/489403/Simpsonfont.ttf");
-}
+
 .card-title {
   font-family: 'Nanum Pen Script', cursive;
   font-size: 40px;
